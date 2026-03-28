@@ -4,7 +4,7 @@
   
   ### Простой браузер для Android
   
-  ![Version](https://img.shields.io/badge/version-1.0-ff6b9d)
+  ![Version](https://img.shields.io/badge/version-1.1-ff6b9d)
   ![Platform](https://img.shields.io/badge/platform-Android-lightgrey)
   ![API](https://img.shields.io/badge/API-21%2B-brightgreen)
   
