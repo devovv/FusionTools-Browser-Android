@@ -2,9 +2,9 @@
 
 <div align="center">
   
-  ### Простой браузер для Android
+  ### Simple browser for Android
   
-  ![Version](https://img.shields.io/badge/version-1.1-ff6b9d)
+  ![Version](https://img.shields.io/badge/version-1.3-ff6b9d)
   ![Platform](https://img.shields.io/badge/platform-Android-lightgrey)
   ![API](https://img.shields.io/badge/API-30%2B-brightgreen)
   
@@ -12,70 +12,51 @@
 
 ---
 
-## 📲 Скачать
+## 📲 Download
 
-[![Download APK](https://img.shields.io/badge/Download-APK-ff6b9d?style=for-the-badge)](https://github.com/devovv/FusionTools-Browser-Android/releases)
-
----
-
-## ✨ Что умеет
-
-| Функция | Описание |
-|---------|----------|
-| 🔍 **Поиск в интернете** | Введите запрос — откроется Яндекс |
-| 🌐 **Ввод адреса** | Введите сайт (например, github.com) — откроется страница |
-| ⭐ **Закладки** | Сохраняйте любимые сайты (➕ добавить, ⭐ список) |
-| 🔗 **Быстрые ссылки** | Кнопки Store, Translate, Browser на стартовой странице |
-| 🔐 **Сохранение паролей** | Браузер запоминает логины и пароли |
-| 🎨 **Розовая тема** | Стильный дизайн в цветах FusionTools |
+[![Download APK](https://img.shields.io/badge/Download-APK-ff6b9d?style=for-the-badge)](https://github.com/devovv/FusionTools-Browser-Android/releases/tag/v1.3)
 
 ---
 
-## 🚀 Установка
-
-1. Скачайте APK из [раздела релизов](https://github.com/devovv/FusionTools-Browser-Android/releases)
-2. На телефоне разрешите установку из неизвестных источников
-3. Откройте APK и нажмите "Установить"
-4. Запустите FusionTools Browser
-
----
-
-## 🛠️ Требования
-
-- Android 11 (API 30) и выше
-- 5 MB свободного места
-- Интернет-соединение
+## ✨ Features
+| Function | Description |
+|----------|-------------|
+| 🔍 **Internet search** | Enter a query — Yandex opens |
+| 🌐 **Enter URL** | Enter a website (e.g., github.com) — page opens |
+| ⭐ **Bookmarks** | Save your favorite sites with custom titles, shows date |
+| 📜 **History** | Automatically saves visited pages with title and time |
+| 🔒 **Incognito mode** | Doesn't save history (enable in settings) |
+| 🔗 **Quick links** | Store, Translate, Browser buttons on start page |
+| 📝 **Font size** | Adjust text size (75%, 100%, 125%, 150%) |
+| 🎨 **Dark theme** | Stylish dark design in FusionTools colors |
+| 🔄 **Smart restart** | Restart button appears when settings change |
 
 ---
 
-## 🎨 Интерфейс
+## 🚀 Installation
 
-- **Стартовая страница** с логотипом 🦩
-- **Строка поиска** — вводите запрос или адрес
-- **Кнопки навигации** — ➕ добавить в закладки, ⭐ список закладок
-
----
-
-## 📋 Changelog
-
-### v1.1 (текущая)
-- ⭐ Добавлены закладки (➕ добавить, ⭐ список)
-- 🔗 Прямые ссылки на продукты FusionTools (Store, Translate, Browser)
-- 🔐 Включено сохранение паролей и данных форм
-- 📱 Повышена минимальная версия Android до 11 (API 30)
-- 🐛 Исправлены ошибки стабильности WebView
----
-
-## 🌐 Ссылки
-
-- [GitHub](https://github.com/devovv/FusionTools-Browser-Android)
-- [Сайт FusionTools](https://devovv.github.io/FusionTools)
-- [Канал в MAX](https://max.ru/join/1YIQibcvtqrkYlrv3yoqGJrehs2EL8nX5dlF4ya5Rzo)
+1. Download APK from [Releases](https://github.com/devovv/FusionTools-Browser-Android/releases/tag/v1.3)
+2. On your phone, allow installation from unknown sources
+3. Open the APK and tap "Install"
+4. Launch FusionTools Browser
 
 ---
 
-<div align="center">
-  
-  **🦩 FusionTools Browser — просто и быстро**
-  
-</div>
+## 🛠️ Requirements
+
+- Android 11 (API 30) and above
+- 5 MB free space
+- Internet connection
+
+---
+
+## 🎨 Interface
+
+- **Start page** with 🦩 logo
+- **Search bar** — enter query or URL
+- **Navigation** — ⭐ bookmarks menu with:
+  - My bookmarks
+  - Add current page
+  - History
+
+---
