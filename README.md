@@ -12,12 +12,6 @@
 
 ---
 
-## 📲 Download
-
-[![Download APK](https://img.shields.io/badge/Download-APK-ff6b9d?style=for-the-badge)](https://github.com/devovv/FusionTools-Browser-Android/releases/tag/v1.3)
-
----
-
 ## ✨ Features
 | Function | Description |
 |----------|-------------|
