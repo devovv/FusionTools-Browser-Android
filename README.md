@@ -1,10 +1,8 @@
-# 📱 FusionTools Browser for Android
-
 <div align="center">
   
   ### Simple browser for Android
   
-  ![Version](https://img.shields.io/badge/version-1.3-ff6b9d)
+  ![Version](https://img.shields.io/badge/version-1.3.1-ff6b9d)
   ![Platform](https://img.shields.io/badge/platform-Android-lightgrey)
   ![API](https://img.shields.io/badge/API-30%2B-brightgreen)
   
@@ -13,9 +11,10 @@
 ---
 
 ## ✨ Features
+
 | Function | Description |
 |----------|-------------|
-| 🔍 **Internet search** | Enter a query — Yandex opens |
+| 🔍 **Internet search** | Enter a query — Yandex/Google/DuckDuckGo opens |
 | 🌐 **Enter URL** | Enter a website (e.g., github.com) — page opens |
 | ⭐ **Bookmarks** | Save your favorite sites with custom titles, shows date |
 | 📜 **History** | Automatically saves visited pages with title and time |
@@ -24,15 +23,6 @@
 | 📝 **Font size** | Adjust text size (75%, 100%, 125%, 150%) |
 | 🎨 **Dark theme** | Stylish dark design in FusionTools colors |
 | 🔄 **Smart restart** | Restart button appears when settings change |
-
----
-
-## 🚀 Installation
-
-1. Download APK from [Releases](https://github.com/devovv/FusionTools-Browser-Android/releases/tag/v1.3)
-2. On your phone, allow installation from unknown sources
-3. Open the APK and tap "Install"
-4. Launch FusionTools Browser
 
 ---
 
