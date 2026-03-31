@@ -2,7 +2,7 @@
   
   ### Simple browser for Android
   
-  ![Version](https://img.shields.io/badge/version-1.3.1-ff6b9d)
+  ![Version](https://img.shields.io/badge/version-1.4-ff6b9d)
   ![Platform](https://img.shields.io/badge/platform-Android-lightgrey)
   ![API](https://img.shields.io/badge/API-30%2B-brightgreen)
   
@@ -19,9 +19,11 @@
 | ⭐ **Bookmarks** | Save your favorite sites with custom titles, shows date |
 | 📜 **History** | Automatically saves visited pages with title and time |
 | 🔒 **Incognito mode** | Doesn't save history (enable in settings) |
+| 🎨 **Theme switcher** | Dark / Light / System theme |
+| 💾 **Session save** | Cookies and login sessions persist after restart |
+| 🚀 **Performance** | Hardware acceleration, caching, smooth scrolling |
 | 🔗 **Quick links** | Store, Translate, Browser buttons on start page |
 | 📝 **Font size** | Adjust text size (75%, 100%, 125%, 150%) |
-| 🎨 **Dark theme** | Stylish dark design in FusionTools colors |
 | 🔄 **Smart restart** | Restart button appears when settings change |
 
 ---
