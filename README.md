@@ -2,7 +2,7 @@
   
   ### Simple browser for Android
   
-  ![Version](https://img.shields.io/badge/version-1.4-ff6b9d)
+  ![Version](https://img.shields.io/badge/version-1.5-ff6b9d)
   ![Platform](https://img.shields.io/badge/platform-Android-lightgrey)
   ![API](https://img.shields.io/badge/API-30%2B-brightgreen)
   
@@ -19,7 +19,8 @@
 | ⭐ **Bookmarks** | Save your favorite sites with custom titles, shows date |
 | 📜 **History** | Automatically saves visited pages with title and time |
 | 🔒 **Incognito mode** | Doesn't save history (enable in settings) |
-| 🎨 **Theme switcher** | Dark / Light / System theme |
+| 🎨 **Theme switcher** | Dark / Light themes |
+| 🖥️ **Fullscreen menus** | Settings, Bookmarks, History open in fullscreen windows |
 | 💾 **Session save** | Cookies and login sessions persist after restart |
 | 🚀 **Performance** | Hardware acceleration, caching, smooth scrolling |
 | 🔗 **Quick links** | Store, Translate, Browser buttons on start page |
@@ -41,8 +42,8 @@
 - **Start page** with 🦩 logo
 - **Search bar** — enter query or URL
 - **Navigation** — ⭐ bookmarks menu with:
-  - My bookmarks
+  - My bookmarks (fullscreen)
   - Add current page
-  - History
+  - History (fullscreen)
 
 ---
