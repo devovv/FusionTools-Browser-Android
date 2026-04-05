@@ -2,7 +2,7 @@
   
   ### Simple browser for Android
   
-  ![Version](https://img.shields.io/badge/version-1.6-ff6b9d)
+  ![Version](https://img.shields.io/badge/version-1.6.1-ff6b9d)
   ![Platform](https://img.shields.io/badge/platform-Android-lightgrey)
   ![API](https://img.shields.io/badge/API-30%2B-brightgreen)
   
@@ -25,7 +25,6 @@
 | 🖥️ **Fullscreen menus** | Settings, Bookmarks, History open in fullscreen windows |
 | 💾 **Session save** | Cookies and login sessions persist after restart |
 | 🚀 **Performance** | Hardware acceleration, caching, smooth scrolling |
-| 🔗 **Quick links** | Store, Translate, Browser buttons on start page |
 | 🔄 **Smart restart** | Restart button appears when settings change |
 
 ---
