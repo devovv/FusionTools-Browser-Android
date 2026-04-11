@@ -1,8 +1,8 @@
 <div align="center">
   
-  ### Simple browser for Android
+  ### FusionTools Browser — быстрый и приватный браузер для Android
   
-  ![Version](https://img.shields.io/badge/version-1.8-ff6b9d)
+  ![Version](https://img.shields.io/badge/version-1.9-ff6b9d)
   ![Platform](https://img.shields.io/badge/platform-Android-lightgrey)
   ![API](https://img.shields.io/badge/API-30%2B-brightgreen)
   
@@ -14,18 +14,21 @@
 
 | Function | Description |
 |----------|-------------|
-| 🔍 **Internet search** | Enter a query — Yandex/Google/DuckDuckGo opens |
-| 🌐 **Enter URL** | Enter a website (e.g., github.com) — page opens |
-| ⭐ **Bookmarks** | Save your favorite sites with custom titles, shows date |
-| 📜 **History** | Automatically saves visited pages with title and time |
-| 🔒 **Incognito mode** | Doesn't save history (enable in settings) |
+| 🔍 **Internet search** | Yandex / Google / DuckDuckGo |
+| 🌐 **Enter URL** | Direct website navigation |
+| ⭐ **Bookmarks** | Save sites with custom titles and date |
+| 📜 **History** | Automatic saving of visited pages |
+| 🔒 **Incognito mode** | No history saving |
+| 🛡️ **PrimeLock** | AdBlock + Browser spoofing |
+| 🚫 **AdBlock** | Blocks banners, popups and video ads |
+| 🎭 **Browser spoofing** | Chrome, Firefox, Safari, Edge |
 | 🎨 **Theme switcher** | Dark / Light themes |
 | 🎨 **Accent color** | Pink / Blue |
 | 📝 **Font size** | 75% / 100% / 125% / 150% |
-| 🖥️ **Fullscreen menus** | Settings, Bookmarks, History open in fullscreen windows |
-| 💾 **Session save** | Cookies and login sessions persist after restart |
-| 🚀 **Performance** | Hardware acceleration, caching, smooth scrolling |
-| 🔄 **Smart restart** | Restart button appears when settings change |
+| 📑 **Tabs** | Multiple tabs with horizontal scrolling |
+| 🔗 **Open links** | From Telegram, WhatsApp and other apps |
+| 🍪 **Cookies** | Login sessions persist after restart |
+| 🚀 **Performance** | Caching, hardware acceleration, preloading |
 
 ---
 
@@ -41,9 +44,10 @@
 
 - **Start page** with 🦩 logo
 - **Search bar** — enter query or URL
-- **Navigation** — ⭐ bookmarks menu with:
-  - My bookmarks (fullscreen)
+- **Navigation** — ⭐ bookmarks menu:
+  - My bookmarks
   - Add current page
-  - History (fullscreen)
+  - History
+- **Settings** — ⚙️ all customizations
 
 ---
