@@ -2,7 +2,7 @@
   
   ### FusionTools Browser — быстрый и приватный браузер для Android
   
-  ![Version](https://img.shields.io/badge/version-2.5-ff6b9d)
+  ![Version](https://img.shields.io/badge/version-2.7-ff6b9d)
   ![Platform](https://img.shields.io/badge/platform-Android-lightgrey)
   ![API](https://img.shields.io/badge/API-30%2B-brightgreen)
   
